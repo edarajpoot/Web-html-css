@@ -1,0 +1,27 @@
+.main{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid grey;
+    width: 90%;
+
+}
+.pics{
+    display: flex;
+    border: 1px solid grey;
+    overflow: hidden;
+    flex-basis: 32%;
+    position: relative;
+}
+.main1{
+    border:1px solid grey;
+}
+.main1 img{
+    height: 80%;
+    width: 80%;
+}
+.pics img{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+}

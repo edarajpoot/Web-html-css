@@ -1,0 +1,21 @@
+*{
+    color: rgb(243, 19, 19);
+    background-color:rgb(167, 240, 214);
+    font-weight: 800;
+}
+input[type="text"],
+input[type="number"],
+input[type="date"]
+{
+    background-color: white;
+}
+input[type="date"]{
+    color: grey;
+}
+select,button{
+    color: grey;
+    background-color: white;
+}
+.btn{
+    padding-top: 13px;
+}
